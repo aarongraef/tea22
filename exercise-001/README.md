@@ -12,10 +12,10 @@ git commit -m "text"                --> commit
 git log --oneline                   --> mit "q" kommt man raus, grün hat sich verändert, rot nicht
 git push -u origin solution-001     --> -u ->verknüpft lokal mit cloud
 git switch main                     --> branch wechseln
-
+git log                             --> Infos letzter commit
 ls                                  --> listing
 ls -al
-
+git switch -c test-001              --> erstellt und wechselt zu neuer Branch
 
 ## Parameterraum
 
