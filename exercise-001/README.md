@@ -8,6 +8,10 @@ git checkout -b solution-001        --> erstelle nachstehende Branch
 git fetch --all                     --> Dateien aus Cloud holen
 git remote -v                       --> vergleicht origin mit upstream pfad
 git add -p                          --> staging area (danach kann commitet werden)
+git commit -m "text"                --> commit 
+git log --oneline                   --> mit "q" kommt man raus, grün hat sich verändert, rot nicht
+git push -u origin solution-001     --> -u ->verknüpft lokal mit cloud
+git switch main                     --> branch wechseln
 
 ls                                  --> listing
 ls -al
