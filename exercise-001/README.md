@@ -1,5 +1,18 @@
 # Aufgabenstellung
 
+## Git Kommandos
+
+git status                          --> aktueller Zustand und Vorschläge
+git branch -a                       --> auf welcher Branch befinde ich mich
+git checkout -b solution-001        --> erstelle nachstehende Branch
+git fetch --all                     --> Dateien aus Cloud holen
+git remote -v                       --> vergleicht origin mit upstream pfad
+git add -p                          --> staging area (danach kann commitet werden)
+
+ls                                  --> listing
+ls -al
+
+
 ## Parameterraum
 
 Ändern Sie die Vorlage so ab, dass Sie einen Parameter ``count`` mittels Kommandozeile ``-c,--count`` übergeben können. Falls kein Parameter angegeben wird, so ist der Standardwert mit 20 festzusetzen.
