@@ -1,5 +1,6 @@
 # Aufgabenstellung
 
+
 ## Git Kommandos
 
 git status                          --> aktueller Zustand und Vorschläge
@@ -16,6 +17,8 @@ git log                             --> Infos letzter commit
 ls                                  --> listing
 ls -al
 git switch -c test-001              --> erstellt und wechselt zu neuer Branch
+
+
 
 ## Parameterraum
 
